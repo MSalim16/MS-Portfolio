@@ -1,0 +1,100 @@
+h1.top{
+    font-size: 20px;
+    font-family: monospace;
+    text-decoration: underline;
+}
+
+h1.nctitle{
+    font-size: 20px;
+    font-family: monospace;
+
+
+}
+img.PFP{
+    display:block;
+    border-radius: 50%;
+    border-style:double;
+    border-color: rgb(255, 0, 0);
+    border-width: 5px;
+    width: 200px;
+    margin: 20px;
+}
+
+header{
+    display:flex;
+    flex-direction: row;
+    
+
+}
+
+.class{
+    font-family: monospace;
+    font-size: 15px;
+    color: #ffffff;
+    text-align: left;
+    
+}
+
+.background-image{
+    background-image: url(/intro-html-css/images/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    opacity: 60;
+}
+h3.about{
+    font-family: monospace;
+    text-decoration: underline;
+    font-size: 20px; 
+    text-align: left;
+    color: #ffffff;
+}
+h3.exp{
+        font-family: monospace;
+        text-decoration: underline;
+        font-size: 20px; 
+        text-align: left;
+        color: #ffffff;
+}
+h4{
+    font-family: monospace;
+    font-size: 15px; 
+    text-align: left;
+    color: #ffffff;
+
+}
+img.NC{
+    display:block;
+    border-style: double;
+    border-color: rgb(233, 0, 0);
+    border-width: 5px;
+    width: 100px;
+    
+}
+.header-text-wrapper{
+    font-family: monospace;
+    font-size: 10px; 
+    color: #ffffff;
+display: flex;
+flex-direction: column;
+text-align: left;
+}
+
+h4.class{
+    font-family: monospace;
+    font-size: 10px; 
+    color: #ffffff;
+display: flex;
+flex-direction: column;
+text-align: left;
+}
+
+.nc-exp-wrapper{
+    font-family: monospace;
+    font-size: 10px; 
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
