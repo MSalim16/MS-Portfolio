@@ -36,7 +36,7 @@ header{
 }
 
 .background-image{
-    background-image: url(/MS-Portfolio/images/wallpaperflare.com_wallpaper.jpg);
+    background-image: url("https://github.com/MSalim16/MS-Portfolio/blob/main/images/wallpaperflare.com_wallpaper.jpg?raw=true");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
