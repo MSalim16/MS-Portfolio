@@ -27,20 +27,8 @@ header{
 
 }
 
-<<<<<<< HEAD
 .background-img{
     background-color: rgb(160, 84, 84);
-=======
-.class{
-    font-family: monospace;
-    font-size: 15px;
-    color: #ffffff;
-    text-align: left;
-    
-}
-
-.background-image{
->>>>>>> 900f3a847a6f357c2f7c19720dfa45ff8eafc3e8
     background-image: url("https://github.com/MSalim16/MS-Portfolio/blob/main/images/wallpaperflare.com_wallpaper.jpg?raw=true");
     background-size: cover;
     background-attachment: fixed;
