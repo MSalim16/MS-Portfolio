@@ -3,6 +3,29 @@ h1.top{
     font-family: monospace;
     text-decoration: underline;
 }
+body{margin: 0px;
+    
+
+
+  }
+.marginwrap{
+    background-color: rgb(160, 84, 84);
+    background-image: url(https://raw.githubusercontent.com/MSalim16/MS-Portfolio/main/images/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-image: repeat;
+    width :  100vw; height : 100vh;
+}
+
+.marginreal{
+     margin: 0 100px 0 100px; 
+     margin-bottom: 200px;
+     
+
+}
+
 
 h1.nctitle{
     font-size: 20px;
@@ -29,15 +52,6 @@ header{
 
 }
 
-.background-img{
-    background-color: rgb(160, 84, 84);
-    background-image: url("https://github.com/MSalim16/MS-Portfolio/blob/main/images/wallpaperflare.com_wallpaper.jpg?raw=true");
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-
-    background-blend-mode: multiply;
-}
 h3.about{
     font-family: monospace;
     text-decoration: underline;
@@ -60,10 +74,11 @@ h4{
 }
 img.NC{
     display:block;
+    border-radius: 50%;
     border-style: double;
     border-color: rgb(233, 0, 0);
     border-width: 5px;
-    width: 100px;
+    width: 50px;
     
 }
 .header-text-wrapper{
