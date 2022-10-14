@@ -179,6 +179,12 @@ img.landingpfp {
   border-image-source: linear-gradient(to right, #333 50%, #ff0000);
 }
 
+.mlogo {
+  width: 80px;
+  float: left;
+  margin-top: 50px;
+  color: #333;
+}
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
