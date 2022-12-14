@@ -56,33 +56,33 @@ h3.about {
   text-decoration: underline;
   font-size: 20px;
   text-align: left;
-  color: #ff0000;
+  color: #1b6bff;
 }
 h3.exp {
   font-family: monospace;
   text-decoration: underline;
   font-size: 20px;
   text-align: left;
-  color: #ff0000;
+  color: #1b6bff;
 }
 h4 {
   font-family: monospace;
   font-size: 15px;
   text-align: left;
-  color: #ff0000;
+  color: #1b6bff;
 }
 img.NC {
   display: block;
   border-radius: 50%;
   border-style: double;
-  border-color: rgb(233, 0, 0);
+  border-color: #1b6bff;
   border-width: 5px;
   width: 75px;
 }
 .header-text-wrapper {
   font-family: monospace;
   font-size: 10px;
-  color: #ff0000;
+  color: #1b6bff;
   display: flex;
   flex-direction: column;
   text-align: left;
@@ -91,7 +91,7 @@ img.NC {
 h4.class {
   font-family: monospace;
   font-size: 10px;
-  color: #ff0000;
+  color: #1b6bff;
   display: flex;
   flex-direction: column;
   text-align: left;
@@ -100,7 +100,7 @@ h4.class {
 .nc-exp-wrapper {
   font-family: monospace;
   font-size: 10px;
-  color: #ff0000;
+  color: #1b6bff;
   display: flex;
   flex-direction: column;
   text-align: left;
@@ -108,18 +108,22 @@ h4.class {
 
 a.button {
   background-color: #333;
-  color: #ff0000;
+  color: #1b6bff;
   padding: 15px 20px;
   text-align: center;
   display: inline-block;
 }
 a.nclink {
-  color: #ff0000;
+  color: #1b6bff;
 }
 /* HOME PAGE*/
 
 .marginwrap2 {
-  background: linear-gradient(90deg, rgb(255, 0, 0) 65%, rgb(51, 51, 51) 35%);
+  background: linear-gradient(
+    90deg,
+    rgb(27, 107, 255) 65%,
+    rgb(51, 51, 51) 35%
+  );
   /* background-image: url(https://raw.githubusercontent.com/MSalim16/MS-Portfolio/main/images/wallpaperflare.com_wallpaper.jpg); */
   background-size: cover;
   background-attachment: fixed;
@@ -176,7 +180,7 @@ img.landingpfp {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 7px;
-  border-image-source: linear-gradient(to right, #333 50%, #ff0000);
+  border-image-source: linear-gradient(to right, #333 45%, #1b6bff);
 }
 
 .mlogo {
@@ -213,7 +217,7 @@ img.landingpfp {
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #ff0000;
+  background-color: #1b6bff;
   color: white;
 }
 
